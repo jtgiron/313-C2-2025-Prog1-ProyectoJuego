@@ -1,0 +1,19 @@
+# Configuraciones generales del juego
+SCREEN_WIDTH = 1280
+SCREEN_HEIGHT = 720
+FPS = 60
+TITLE = "My Game"
+
+
+#Fisicas
+GRAVITY = 1600.0
+MAX_FALL_SPEED = 1000.0
+PLAYER_ACC = 3000
+PLAYER_FRICTION = -12.0
+PLAYER_JUMP_VELOCITY = -650.0
+
+#Colores
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+
+
